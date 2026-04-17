@@ -1,4 +1,4 @@
- Shopping App 
+https://smartshop-app.netlify.app/
  
 A product listing web application built using HTML, CSS, and JavaScript.
 
